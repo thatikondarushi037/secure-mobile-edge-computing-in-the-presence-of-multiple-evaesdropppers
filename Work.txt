@@ -1,0 +1,28 @@
+Secure Mobile Edge Computing Networks in the Presence of Multiple Eavesdroppers
+
+
+IEEE Transactions on Communications,Volume:70,Issue:1,Issue Date:January.2022
+
+
+
+Members
+-------
+
+Rid	 
+Source_IP	 
+Source_Port	 
+Destination_IP	 
+Destination_Port	 
+Protocol	 
+Timestamp	 
+Flow_Duration	 
+Total_Fwd_Packets	
+Flow_Bytes_per_second	 
+Flow_Packets_per_second	
+Fwd_Packets_per_second	
+ACK_Flag_Count	
+Status
+Hcode
+
+
+
